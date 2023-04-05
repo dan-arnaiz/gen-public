@@ -1,4 +1,4 @@
 print("testing replit...")
 print("That works!")
 print("Synced successfully!")
-print("!")
+print("Extension installed.")
