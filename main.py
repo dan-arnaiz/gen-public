@@ -2,7 +2,7 @@ print("testing replit...")
 print("That works!")
 print("Synced successfully!")
 print("Extension installed.")
-print("Testing git.")
+print("Testing git...")
 
 
 x = 0.062
